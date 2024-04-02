@@ -1,0 +1,1 @@
+DESCRIBE PostalCode AS Zipcode;

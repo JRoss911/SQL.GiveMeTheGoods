@@ -1,0 +1,1 @@
+WHERE City LIKE '[!acf]%';
